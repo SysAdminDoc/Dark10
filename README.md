@@ -5,7 +5,7 @@ Truly make Windows 10 dark — including Task Manager, Control Panel, and more.
 
 ### 🔗 Sources
 - [SecureUxTheme (GitHub)](https://github.com/namazso/SecureUxTheme)  
-- [Tokyo Night Theme (DeviantArt)](https://www.deviantart.com/niivu/art/Tokyo-Night-for-Windows-10-911660687) Full theme credit to [https://www.deviantart.com/niivu](Niivu)
+- [Tokyo Night Theme (DeviantArt)](https://www.deviantart.com/niivu/art/Tokyo-Night-for-Windows-10-911660687) Full theme credit to [niivu](https://www.deviantart.com/niivu)
 
 ---
 
